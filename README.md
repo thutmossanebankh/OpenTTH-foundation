@@ -39,6 +39,7 @@ The Python scripts require standard dependencies: `numpy`, `matplotlib`, `scipy`
 ---
 
 **Author:** Salvador-Jose Mountanta Famorosa
+
 [Contact me](mailto:vieirasalva@gmail.com.)
 
 **License:** Apache 2.0
